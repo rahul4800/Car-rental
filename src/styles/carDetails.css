@@ -1,0 +1,51 @@
+
+.car-detail-info h1{
+    
+    color: #0d1552;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.btn-booking{
+    border: 1px solid #000d6b;
+   font-weight: 600;
+    color: #000d6b;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border-radius: 10px;
+}
+.btn-booking:hover{
+    background: #000d6b;
+    color: #fff;
+}
+
+.car-detail-info p{
+    font-weight: 500;
+    color: #757575;
+}
+
+.car-detail-info span{
+    font-weight: 500;
+}
+
+.car-rating{
+    display: flex;
+    gap: 30px;
+}
+.car-rating i{
+    color: gold;
+}
+
+.car-descrip{
+    color: #757575;
+    font-weight: 400;
+}
+
+.car-detail-features{  
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; 
+    justify-content: space-evenly; */
+    gap: 50px;
+    
+}

@@ -1,0 +1,31 @@
+
+.payment-heading{
+    color: #000d6b;
+    margin-bottom: 25px;
+}
+.payment label {
+    font-weight: 600;
+    color: #000d6b;
+}
+
+.payment button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    background: #000d6b;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+@media(max-width: 375px){
+    
+    .master-card-input {
+        display: flex;
+        align-items:start;
+        justify-content: left;
+    }
+    .payment-masterCard{
+        display: flex;
+        flex-direction: column;
+    }
+}

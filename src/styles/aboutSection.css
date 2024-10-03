@@ -1,0 +1,22 @@
+.about_section-item{
+    column-gap: 3rem;
+}
+.about_section-item p i{
+    color: #f9a826;
+    font-size: 1.1rem;
+}
+.about_section-content h4 {
+    color: #f9a826;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.about_section-content h2 {
+    color: #000d6b;
+    font-weight: 600;
+    font-size: 2rem;
+   
+}
+.about_section-content p {
+    font-size: 1.1rem;
+    
+}

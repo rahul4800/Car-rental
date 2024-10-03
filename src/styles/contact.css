@@ -1,0 +1,24 @@
+
+.contact_form textarea{
+    width: 100%;
+}
+
+.contact-details{
+    padding-top: 100px;
+}
+.contact-details h5{
+    font-size: 1.5rem;
+    color: rgb(146, 26, 26);
+}
+.contact-details h6{
+    font-weight: 600;
+}
+
+.contact_btn {
+    padding: 7px 15px;
+    background: #000d6b;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+  }

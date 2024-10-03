@@ -1,0 +1,22 @@
+
+.add_car-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-car-form{
+    width: 70%;
+}
+.add-car-form input{
+    
+}
+.form-control-btn{
+    width: 10rem;
+    float: inline-end;
+    background: rgb(23, 146, 23);
+}
+.form-control-btn:hover{
+    background: rgb(15, 100, 15);
+}
